@@ -1,0 +1,3 @@
+betacal==1.1.0
+imbalanced-learn==0.10.1
+ml_insights-1.0.2
