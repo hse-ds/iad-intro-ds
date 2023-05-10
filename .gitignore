@@ -1,4 +1,17 @@
-__pycache__/
-*.idea
-*.ipynb_checkpoints
-*.DStore
+# IDE
+.idea
+
+# mac-related
+.DS_Store
+__MACOSX
+
+# notebooks
+.ipynb_checkpoints
+
+# python
+__pycache__
+
+# datasets
+*.zip
+data
+FashionMNIST
